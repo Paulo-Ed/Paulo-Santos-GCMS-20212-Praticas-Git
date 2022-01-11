@@ -16,6 +16,12 @@ public class helloWorld {
 		System.out.println("Oitavo commit!");
 		System.out.println("Nono commit!");
 		System.out.println("Décimo commit!");
+		
+		System.out.println("Primeiro commit branch hotfix!");
+		System.out.println("Segundo commit branch hotfix!");
+		System.out.println("Terceiro commit branch hotfix!");
+		
+
 	
 	}
 
