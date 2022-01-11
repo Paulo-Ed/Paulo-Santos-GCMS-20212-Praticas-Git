@@ -12,6 +12,8 @@ public class helloWorld {
 		System.out.println("Sexto commit!");
 		System.out.println("Quinto commit!");
 		System.out.println("Sétimo commit!");
+		System.out.println("Quinto commit!");
+		System.out.println("Oitavo commit!");
 		
 	
 	}
