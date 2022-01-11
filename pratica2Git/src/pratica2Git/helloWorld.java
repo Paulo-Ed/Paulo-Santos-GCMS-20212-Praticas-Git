@@ -15,6 +15,7 @@ public class helloWorld {
 		System.out.println("Quinto commit!");
 		System.out.println("Oitavo commit!");
 		System.out.println("Nono commit!");
+		System.out.println("Décimo commit!");
 	
 	}
 
